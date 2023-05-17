@@ -1,0 +1,439 @@
+.rectangle-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 839px;
+  object-fit: cover;
+}
+.xem-chi-tit-thng-bo-qut-m-child {
+  position: absolute;
+  top: 136px;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-darkgoldenrod);
+  width: 1440px;
+  height: 948px;
+}
+.admin6,
+.sa1-icon4 {
+  position: absolute;
+  top: 191.5px;
+  left: 89px;
+  width: 1262px;
+  height: 786px;
+}
+.admin6 {
+  top: 313px;
+  left: 178px;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 66px;
+  height: 31px;
+}
+.artboard-1-1-16,
+.shield-person-icon6 {
+  position: absolute;
+  top: 294px;
+  left: 107px;
+  width: 85px;
+  height: 85px;
+}
+.artboard-1-1-16 {
+  top: 874px;
+  left: 105px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.div5,
+.qun-l-nhn6 {
+  position: absolute;
+  top: 932px;
+  left: 869px;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  width: 57px;
+  height: 39px;
+}
+.qun-l-nhn6 {
+  top: 425px;
+  left: 196px;
+  text-align: center;
+  justify-content: center;
+  width: 227px;
+  height: 106px;
+}
+.badge-icon6,
+.paid-icon6 {
+  position: absolute;
+  top: 643px;
+  left: 88px;
+  width: 107.5px;
+  height: 107px;
+}
+.badge-icon6 {
+  top: 423px;
+  left: 89px;
+  width: 107px;
+  height: 108.01px;
+}
+.sa24,
+.sa34,
+.xem-chi-tit-thng-bo-qut-m-item {
+  position: absolute;
+  top: 749.5px;
+  left: 88.5px;
+  filter: blur(4px);
+  border-top: 1px solid var(--color-darkgoldenrod);
+  box-sizing: border-box;
+  width: 346px;
+  height: 1px;
+}
+.sa24,
+.sa34 {
+  top: 642.5px;
+}
+.sa34 {
+  top: 531.5px;
+}
+.xem-chi-tit-thng-bo-qut-m-child1,
+.xem-chi-tit-thng-bo-qut-m-inner {
+  position: absolute;
+  top: 186.48px;
+  left: 433.5px;
+  filter: blur(4px);
+  border-right: 1px solid var(--color-darkgoldenrod);
+  box-sizing: border-box;
+  width: 1px;
+  height: 792.02px;
+}
+.xem-chi-tit-thng-bo-qut-m-child1 {
+  top: 196.5px;
+  left: 92.5px;
+}
+.arrow-back-icon6 {
+  position: absolute;
+  top: 211px;
+  left: 107px;
+  width: 48px;
+  height: 48px;
+}
+.xem-chi-tit-thng-bo-qut-m-child2 {
+  position: absolute;
+  top: 424.5px;
+  left: 88.5px;
+  filter: blur(4px);
+  border-top: 1px solid var(--color-darkgoldenrod);
+  box-sizing: border-box;
+  width: 346px;
+  height: 1px;
+}
+.tnh-lng10 {
+  position: absolute;
+  top: 643px;
+  left: 196px;
+  color: var(--color-black);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 227px;
+  height: 106px;
+}
+.xem-chi-tit-thng-bo-qut-m-child3,
+.xem-chi-tit-thng-bo-qut-m-child4 {
+  position: absolute;
+  top: 248px;
+  left: 489px;
+  border-radius: var(--br-xl);
+  width: 816px;
+  height: 678px;
+}
+.xem-chi-tit-thng-bo-qut-m-child4 {
+  top: 277px;
+  left: 516px;
+  background-color: var(--color-darkgoldenrod);
+  width: 761px;
+  height: 304px;
+}
+.xem-chi-tit-thng-bo-qut-m-child5 {
+  position: absolute;
+  top: 365px;
+  left: 1148.5px;
+  width: 1px;
+  height: 217.5px;
+}
+.border-color-icon1,
+.qr-code-2-icon {
+  position: absolute;
+  top: 377px;
+  left: 1176px;
+  width: 79px;
+  height: 80px;
+}
+.qr-code-2-icon {
+  top: 373px;
+  left: 1031px;
+  width: 91px;
+  height: 84px;
+}
+.gi-vo-ca {
+  margin: 0;
+}
+.m-nhn-vin-container11 {
+  line-break: anywhere;
+  width: 100%;
+}
+.m-nhn-vin-container10,
+.nguyn-phc-long6 {
+  position: absolute;
+  top: 377px;
+  left: 540px;
+  font-size: var(--font-size-11xl);
+  display: flex;
+  align-items: center;
+  width: 483px;
+  height: 228px;
+}
+.nguyn-phc-long6 {
+  top: 277px;
+  left: 536px;
+  font-size: var(--font-size-17xl);
+  width: 412px;
+  height: 75px;
+}
+.xem-chi-tit-thng-bo-qut-m-child6 {
+  position: absolute;
+  top: 594px;
+  left: 516px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkgoldenrod);
+  width: 761px;
+  height: 304px;
+}
+.phm-minh-lc6,
+.sa {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.sa {
+  top: 791px;
+  left: 1143px;
+  text-align: center;
+  justify-content: center;
+  width: 146px;
+  height: 46px;
+}
+.phm-minh-lc6 {
+  top: 592px;
+  left: 536px;
+  font-size: var(--font-size-17xl);
+  width: 412px;
+  height: 75px;
+}
+.list-icon16,
+.list-icon17 {
+  position: absolute;
+  top: 281px;
+  left: 1158px;
+  width: 92px;
+  height: 92.01px;
+}
+.list-icon17 {
+  top: 592px;
+}
+.xem-chi-tit-thng-bo-qut-m-child7,
+.xem-chi-tit-thng-bo-qut-m-child8 {
+  position: absolute;
+  top: 363px;
+  left: 516px;
+  width: 761px;
+  height: 2.01px;
+  mix-blend-mode: lighten;
+}
+.xem-chi-tit-thng-bo-qut-m-child8 {
+  top: 676px;
+}
+.xem-chi-tit-thng-bo-qut-m-child9 {
+  position: absolute;
+  top: 677px;
+  left: 1148.5px;
+  width: 1px;
+  height: 221px;
+}
+.xem-chi-tit-thng-bo-qut-m-child10,
+.xem-chi-tit-thng-bo-qut-m-child11 {
+  position: absolute;
+  top: 364.5px;
+  left: 1007.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 230px;
+}
+.xem-chi-tit-thng-bo-qut-m-child11 {
+  top: 676.5px;
+}
+.kim-tra-lch,
+.sa1 {
+  text-align: center;
+  justify-content: center;
+}
+.sa1 {
+  position: absolute;
+  top: 480px;
+  left: 1143px;
+  display: flex;
+  align-items: center;
+  width: 146px;
+  height: 46px;
+}
+.kim-tra-lch {
+  top: 457px;
+  left: 1034px;
+  width: 86px;
+  height: 122px;
+}
+.kim-tra-lch,
+.kim-tra-lch1,
+.m-nhn-vin-container12 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.kim-tra-lch1 {
+  top: 768px;
+  left: 1034px;
+  text-align: center;
+  justify-content: center;
+  width: 86px;
+  height: 122px;
+}
+.m-nhn-vin-container12 {
+  top: 693px;
+  left: 540px;
+  font-size: var(--font-size-11xl);
+  width: 483px;
+  height: 228px;
+}
+.qr-code-2-icon1 {
+  position: absolute;
+  top: 684px;
+  left: 1031px;
+  width: 91px;
+  height: 84px;
+}
+.border-color-icon2 {
+  position: absolute;
+  top: 693px;
+  left: 1176px;
+  width: 79px;
+  height: 80px;
+}
+.xem-chi-tit-thng-bo-qut-m-child12 {
+  position: absolute;
+  top: 526px;
+  left: 88px;
+  background-color: var(--color-gainsboro);
+  width: 1px;
+  height: 4px;
+}
+.xem-chi-tit-thng-bo-qut-m-child13 {
+  position: absolute;
+  top: 534px;
+  left: 93px;
+  background-color: var(--color-darkgoldenrod);
+  width: 337px;
+  height: 102px;
+}
+.sa-44,
+.sa-5-icon4 {
+  position: absolute;
+  top: 512px;
+  left: 73px;
+  width: 123px;
+  height: 120.97px;
+}
+.sa-44 {
+  top: 531px;
+  left: 194px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 227px;
+  height: 106px;
+}
+.xem-chi-tit-thng-bo-qut-m-child14 {
+  position: absolute;
+  top: 123px;
+  left: 471px;
+  background-color: var(--color-darkgoldenrod);
+  width: 620px;
+  height: 783px;
+}
+.qr-code-2-icon2 {
+  position: absolute;
+  top: 92px;
+  left: 635px;
+  width: 292px;
+  height: 294px;
+}
+.xem-chi-tit-thng-bo-qut-m-child15 {
+  position: absolute;
+  top: 399px;
+  left: 482px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 589px;
+  height: 149px;
+}
+.xem-chi-tit-thng-bo-qut-m-child16,
+.xem-chi-tit-thng-bo-qut-m-child17 {
+  position: absolute;
+  top: 569px;
+  left: 482px;
+  border-radius: var(--br-xl);
+  width: 589px;
+  height: 149px;
+}
+.xem-chi-tit-thng-bo-qut-m-child17 {
+  top: 739px;
+  background-color: var(--color-white);
+}
+.nguyn-phc-long-container,
+.nguyn-phc-long-container2,
+.nguyn-phc-long-container4 {
+  position: absolute;
+  top: 412px;
+  left: 495px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkgoldenrod);
+  display: flex;
+  align-items: center;
+  width: 562px;
+  height: 130px;
+}
+.nguyn-phc-long-container2,
+.nguyn-phc-long-container4 {
+  top: 745px;
+  left: 493px;
+}
+.nguyn-phc-long-container4 {
+  top: 573px;
+}
+.xem-chi-tit-thng-bo-qut-m {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-source-sans-pro);
+}

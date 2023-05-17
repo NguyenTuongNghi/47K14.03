@@ -1,0 +1,138 @@
+.rectangle-icon18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 839px;
+  object-fit: cover;
+}
+.mn-hnh-ng-k-child {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-darkgoldenrod);
+  width: 1440px;
+  height: 948px;
+}
+.artboard-1-1-117 {
+  position: absolute;
+  top: 152px;
+  left: 638px;
+  width: 120px;
+  height: 120px;
+  overflow: hidden;
+}
+.mn-hnh-ng-k-child1,
+.mn-hnh-ng-k-child2,
+.mn-hnh-ng-k-inner,
+.mn-hnh-ng-k-item {
+  position: absolute;
+  top: 272px;
+  left: 489px;
+  border-radius: var(--br-xl);
+  width: 418px;
+  height: 65px;
+}
+.mn-hnh-ng-k-child1,
+.mn-hnh-ng-k-child2,
+.mn-hnh-ng-k-inner {
+  top: 608px;
+}
+.mn-hnh-ng-k-child1,
+.mn-hnh-ng-k-child2 {
+  top: 496px;
+}
+.mn-hnh-ng-k-child2 {
+  top: 384px;
+}
+.c-ti-khon {
+  position: absolute;
+  top: 910px;
+  left: 558px;
+  text-decoration: underline;
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  width: 280px;
+  height: 48px;
+}
+.mn-hnh-ng-k-child3 {
+  position: absolute;
+  top: 846px;
+  left: 595px;
+  border-radius: var(--br-xl);
+  width: 206px;
+  height: 64px;
+}
+.tn-ng-nhp1 {
+  position: absolute;
+  top: 276px;
+  left: 502px;
+  display: flex;
+  align-items: center;
+  width: 284px;
+  height: 50px;
+}
+.mt-khu1 {
+  top: 384px;
+  left: 502px;
+  width: 266px;
+  height: 66px;
+}
+.email,
+.mt-khu1,
+.ng-k,
+.xc-nhn-mt {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.ng-k {
+  top: 856px;
+  left: 615px;
+  text-align: center;
+  justify-content: center;
+  width: 162px;
+  height: 43px;
+}
+.email,
+.xc-nhn-mt {
+  top: 497px;
+  left: 504px;
+  width: 305px;
+  height: 64px;
+}
+.email {
+  top: 610px;
+  width: 299px;
+  height: 63px;
+}
+.mn-hnh-ng-k-child4 {
+  position: absolute;
+  top: 720px;
+  left: 489px;
+  border-radius: var(--br-xl);
+  width: 418px;
+  height: 65px;
+}
+.s-in-thoi3 {
+  position: absolute;
+  top: 719px;
+  left: 504px;
+  display: flex;
+  align-items: center;
+  width: 237px;
+  height: 63px;
+}
+.mn-hnh-ng-k {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-source-sans-pro);
+}

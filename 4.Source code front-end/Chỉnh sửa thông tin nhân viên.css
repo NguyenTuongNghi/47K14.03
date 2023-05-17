@@ -1,0 +1,352 @@
+.rectangle-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 839px;
+  object-fit: cover;
+}
+.chnh-sa-thng-tin-nhn-vin-child {
+  position: absolute;
+  top: 136px;
+  left: 0;
+  border-radius: var(--br-17xl);
+  background-color: var(--color-darkgoldenrod);
+  width: 1440px;
+  height: 948px;
+}
+.admin8,
+.chnh-sa-thng-tin-nhn-vin-item {
+  position: absolute;
+  top: 191.5px;
+  left: 89px;
+  width: 1262px;
+  height: 786px;
+}
+.admin8 {
+  top: 313px;
+  left: 178px;
+  color: var(--color-black);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 66px;
+  height: 31px;
+}
+.artboard-1-1-18,
+.shield-person-icon8 {
+  position: absolute;
+  top: 294px;
+  left: 107px;
+  width: 85px;
+  height: 85px;
+}
+.artboard-1-1-18 {
+  top: 874px;
+  left: 105px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.chnh-sa-thng-tin-nhn-vin-inner {
+  position: absolute;
+  top: 428px;
+  left: 93px;
+  background-color: var(--color-darkgoldenrod);
+  width: 337px;
+  height: 102px;
+}
+.bng-chm-cng3 {
+  top: 531px;
+  left: 194px;
+  color: var(--color-black);
+  justify-content: center;
+  width: 227px;
+  height: 106px;
+}
+.bng-chm-cng3,
+.div6,
+.qun-l-nhn7 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.div6 {
+  top: 932px;
+  left: 869px;
+  color: var(--color-black);
+  text-align: left;
+  width: 57px;
+  height: 39px;
+}
+.qun-l-nhn7 {
+  top: 425px;
+  left: 196px;
+  justify-content: center;
+  width: 227px;
+  height: 106px;
+}
+.content-paste-icon2 {
+  position: absolute;
+  top: 512px;
+  left: 73px;
+  width: 123px;
+  height: 120.97px;
+}
+.badge-icon8,
+.paid-icon8 {
+  position: absolute;
+  top: 643px;
+  left: 88px;
+  width: 107.5px;
+  height: 107px;
+}
+.badge-icon8 {
+  top: 423px;
+  left: 89px;
+  width: 107px;
+  height: 108.01px;
+}
+.chnh-sa-thng-tin-nhn-vin-child1,
+.chnh-sa-thng-tin-nhn-vin-child2,
+.chnh-sa-thng-tin-nhn-vin-child3 {
+  position: absolute;
+  top: 749.5px;
+  left: 88.5px;
+  filter: blur(4px);
+  border-top: 1px solid var(--color-darkgoldenrod);
+  box-sizing: border-box;
+  width: 346px;
+  height: 1px;
+}
+.chnh-sa-thng-tin-nhn-vin-child2,
+.chnh-sa-thng-tin-nhn-vin-child3 {
+  top: 642.5px;
+}
+.chnh-sa-thng-tin-nhn-vin-child3 {
+  top: 531.5px;
+}
+.chnh-sa-thng-tin-nhn-vin-child4 {
+  position: absolute;
+  top: 186.48px;
+  left: 433.5px;
+  filter: blur(4px);
+  border-right: 1px solid var(--color-darkgoldenrod);
+  box-sizing: border-box;
+  width: 1px;
+  height: 792.02px;
+}
+.arrow-back-icon8 {
+  position: absolute;
+  top: 211px;
+  left: 107px;
+  width: 48px;
+  height: 48px;
+}
+.chnh-sa-thng-tin-nhn-vin-child5 {
+  position: absolute;
+  top: 424.5px;
+  left: 88.5px;
+  filter: blur(4px);
+  border-top: 1px solid var(--color-darkgoldenrod);
+  box-sizing: border-box;
+  width: 346px;
+  height: 1px;
+}
+.tnh-lng12 {
+  position: absolute;
+  top: 643px;
+  left: 196px;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 227px;
+  height: 106px;
+}
+.chnh-sa-thng-tin-nhn-vin-child6 {
+  position: absolute;
+  top: 248px;
+  left: 489px;
+  border-radius: var(--br-xl);
+  width: 816px;
+  height: 678px;
+}
+.chnh-sa-thng-tin-nhn-vin-child7 {
+  position: absolute;
+  top: 264px;
+  left: 1024px;
+  background-color: var(--color-darkgoldenrod);
+  width: 267px;
+  height: 62px;
+}
+.danh-sch-nhn3,
+.thm-nhn-vin3 {
+  position: absolute;
+  top: 264px;
+  left: 1060px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 231px;
+  height: 62px;
+}
+.danh-sch-nhn3 {
+  left: 493px;
+  text-decoration: underline;
+  color: var(--color-black);
+  width: 255px;
+}
+.add-icon3 {
+  position: absolute;
+  top: 269px;
+  left: 1024px;
+  width: 51px;
+  height: 51px;
+}
+.chnh-sa-thng-tin-nhn-vin-child8 {
+  position: absolute;
+  top: 379px;
+  left: 516px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkgoldenrod);
+  width: 761px;
+  height: 323px;
+}
+.nh-ca-nhn1 {
+  position: absolute;
+  top: 565px;
+  left: 948px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 103px;
+  height: 122px;
+}
+.broken-image-icon1,
+.check-icon1 {
+  position: absolute;
+  top: 501px;
+  left: 1069px;
+  width: 79px;
+  height: 80px;
+}
+.broken-image-icon1 {
+  left: 951px;
+  width: 97px;
+}
+.blank-line6 {
+  margin: 0;
+}
+.m-nhn-vin-container15 {
+  line-break: anywhere;
+  width: 100%;
+}
+.m-nhn-vin-container14,
+.nguyn-phc-long11 {
+  position: absolute;
+  top: 460px;
+  left: 536px;
+  font-size: var(--font-size-11xl);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 333px;
+  height: 209px;
+}
+.nguyn-phc-long11 {
+  top: 385px;
+  font-size: var(--font-size-17xl);
+  width: 412px;
+  height: 75px;
+}
+.chnh-sa-thng-tin-nhn-vin-child9 {
+  position: absolute;
+  top: 722px;
+  left: 516px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkgoldenrod);
+  width: 761px;
+  height: 105px;
+}
+.phm-minh-lc8 {
+  position: absolute;
+  top: 737px;
+  left: 536px;
+  font-size: var(--font-size-17xl);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 412px;
+  height: 75px;
+}
+.list-icon21,
+.list-icon22 {
+  position: absolute;
+  top: 729px;
+  left: 1158px;
+  width: 92px;
+  height: 92.01px;
+}
+.list-icon22 {
+  top: 386px;
+}
+.chnh-sa-thng-tin-nhn-vin-child10 {
+  position: absolute;
+  top: 470px;
+  left: 519px;
+  width: 758px;
+  height: 2.01px;
+  mix-blend-mode: lighten;
+}
+.chnh-sa-thng-tin-nhn-vin-child11,
+.chnh-sa-thng-tin-nhn-vin-child12,
+.chnh-sa-thng-tin-nhn-vin-child13 {
+  position: absolute;
+  top: 471.5px;
+  left: 1168.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 230px;
+}
+.chnh-sa-thng-tin-nhn-vin-child12,
+.chnh-sa-thng-tin-nhn-vin-child13 {
+  left: 1055.5px;
+}
+.chnh-sa-thng-tin-nhn-vin-child13 {
+  left: 942.5px;
+}
+.close-icon4,
+.hy5,
+.lu1 {
+  position: absolute;
+  top: 501px;
+  left: 1176px;
+  width: 91px;
+  height: 80px;
+}
+.hy5,
+.lu1 {
+  top: 600px;
+  left: 1041px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 146px;
+  height: 46px;
+}
+.hy5 {
+  left: 1148px;
+}
+.chnh-sa-thng-tin-nhn-vin {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-source-sans-pro);
+}

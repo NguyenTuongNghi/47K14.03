@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-source-sans-pro: "Source Sans Pro";
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+  --font-size-15xl: 34px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkgoldenrod: #bc760d;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-firebrick: #d11a1a;
+
+  /* border radiuses */
+  --br-xl: 20px;
+  --br-17xl: 36px;
+}
